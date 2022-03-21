@@ -1,6 +1,6 @@
 
 # IP GeoData Lookup
-[![License GNU GPLv3](https://img.shields.io/badge/License-GNU%20GPLv3-orange)](./LICENSE)
+[[License GNU GPLv3]](./LICENSE)
 
 ## Table of Contents:
 
@@ -36,22 +36,22 @@ and navigate to [localhost](https://localhost:3000)
 
 ## Test Instructions
 Manual testing steps:
-### Input is valid:
+#### *Input is valid*
 - input your current IP or 8.8.8.8
 - Lat/Long shoud display below the search field
-### Input is blank
+#### *Input is blank*
 - click the search button on the web app without any inpt
 - you should note an alert instructing you to input an IP
-### Input is not valid
+#### *Input is not valid*
 - input a 0 in the search field
 - you should see an alert instructing you to input a valid IP
-### Input is valid but not a usable IPv4 address
+#### *Input is valid but not a usable IPv4 address*
 - input 127.0.0.1 in the search field
 - you should see the response on the node server that indicates the Address is not found
 
 
 ## Future improvements:
-Give additional development time immediate improvements to be made would be an improved input validation function that would filter the unusable IP addresses. 
+Given additional development time immediate improvements to be made would be an improved input validation function that would filter unusable IP addresses preventing these from being sent to the data reader function. 
 Implementation of automated testing
 
 
