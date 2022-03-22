@@ -13,7 +13,7 @@
 - [Section 7: Questions](#Questions)
 
 ## Description
-A stand alone React application that echoes out latitude and longitude information for a given IPv4 address. This utilizes the MaxMind GeoIP2 binary database from here: [GeoIP2] (https://dev.maxmind.com/geoip/docs/databases/city-and-country/?lang=en#binary-databases)
+A stand alone React application that echoes out latitude and longitude information for a given IPv4 address. This utilizes the MaxMind GeoIP2 binary database from here: [GeoIP2](https://dev.maxmind.com/geoip/docs/databases/city-and-country/?lang=en#binary-databases)
 
 
 ## Installation
