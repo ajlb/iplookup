@@ -32,7 +32,7 @@ npm start
 and navigate to [localhost](https://localhost:3000)
 
 ## License
-* UNLICENSE (LICENSE)
+* [[License GNU GPLv3]](./LICENSE)
 
 ## Test Instructions
 Manual testing steps:
